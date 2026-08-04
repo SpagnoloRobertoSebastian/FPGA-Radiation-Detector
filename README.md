@@ -16,7 +16,7 @@ The analog front-end conditions these signals before they are processed by the F
 
 The FPGA measures the pulse width using the **Over Threshold** technique, generates a digital histogram and transmits the acquired data to a computer through UART.
 
-![System Architecture](images/diagGeneraldSistema.png)
+![System Architecture](images/system_architecture.png)
 
 ---
 
