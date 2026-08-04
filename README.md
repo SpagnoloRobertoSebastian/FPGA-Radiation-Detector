@@ -33,7 +33,7 @@ Main digital blocks:
 - UART Communication
 - Histogram Generation
 
-![Digital Architecture](images/diagDigGeneral.png)
+![Digital Architecture](images/digital_architecture.png)
 
 ---
 
