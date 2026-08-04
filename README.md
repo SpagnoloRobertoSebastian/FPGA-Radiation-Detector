@@ -62,7 +62,7 @@ The complete prototype combines the analog electronics with the FPGA development
 
 The implemented system successfully measured radiation events and generated digital histograms that represent the deposited energy.
 
-![Histogram](images/hitograma.png)
+![Histogram](images/hitogram.png)
 
 ---
 
