@@ -48,6 +48,7 @@ The analog chain includes:
 - Baseline Restorer
 - Over Threshold Circuit
 
+![Analog_Front_End](images/analog_front_end.png)
 ---
 
 # Prototype
