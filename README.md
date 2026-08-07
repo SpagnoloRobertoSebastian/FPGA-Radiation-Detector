@@ -66,8 +66,10 @@ The implemented system successfully measured radiation events and generated digi
 ![Histogram](images/histogram.png)
 
 ---
+# Experimental Results
 
-# Repository Structure
+# PCB Design
+![PCB_Design](images/pcb_design.png)
 
 ```text
 images/
